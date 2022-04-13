@@ -1,3 +1,4 @@
 # PricePredictionModel
 
-created this as a college project while exploring machine learning.
+Created this Machine Learning model which predicts the price of the stocks for a company while in the second semester of college.
+Got introduced to LSTM and data handling in MS Excel.
